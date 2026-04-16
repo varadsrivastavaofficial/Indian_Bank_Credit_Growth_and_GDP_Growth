@@ -56,6 +56,22 @@ $$
 
 ---
 
+## Report Graphs:
+
+## Indian Gross Bank Credit vs Indian Nominal GDP.png
+![Gross_Credit_vs_GDP.png](graphs/Gross_Credit_vs_GDP.png)
+
+## Indian Non-Food Bank Credit vs Indian Nominal GDP.png
+![Non-Food_Credit_vs_GDP.png](graphs/Non-Food_Credit_vs_GDP.png)
+
+## Indian Gross vs Food vs Non-Food Bank Credit.png
+![Gross_vs_Food_vs_Non-Food_Credit.png](graphs/Gross_vs_Food_vs_Non-Food_Credit.png)
+
+## Agriculture and Allied Activities vs Industry vs Services.png
+![Agriculture_vs_Industry_vs_Services.png](graphs/Agriculture_vs_Industry_vs_Services.png)
+
+---
+
 ## 📂 Data Sources
 
 * Reserve Bank of India (RBI)
