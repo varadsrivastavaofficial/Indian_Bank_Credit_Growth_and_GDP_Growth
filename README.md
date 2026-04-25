@@ -81,13 +81,6 @@ Time period: **2000–2024**
 
 ---
 
-## 📄 Full Report
-
-The complete research report is available here:
-
-
----
-
 ## ⚠️ Limitations
 
 * Uses a bivariate model (excludes inflation, interest rates, etc.)
